@@ -1,4 +1,4 @@
-USE grm_system;
+USE gmm_system;
 
 DROP TABLE IF EXISTS mod_disciplina_cursos;
 
